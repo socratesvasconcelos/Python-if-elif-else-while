@@ -20,4 +20,4 @@ while num != quest:
         break
 if num == quest:
     print("número adivinhado corretamente.")
-
+#progama criado por socrates vasconcelos
